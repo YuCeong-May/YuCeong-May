@@ -14,23 +14,10 @@
 
 <code>Multilingual ASR</code> <code>Speech-LLMs</code> <code>PEFT</code> <code>Robust Speech Recognition</code>
 
-## Publications
+## Selected Publications
 
-### 2026
+1. Y. Mei, Y. Zheng, D. Xu, and Y. Long, "SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge," in *Workshop on Multilingual Conversational Speech Language Model (MLC-SLM)*, 2025, pp. 38-42. **[Published]** [PDF](https://www.isca-archive.org/mlcslm_2025/mei25_mlcslm.pdf) · [arXiv](https://arxiv.org/abs/2507.03343)
 
-**Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR**  
-Yuxiang Mei, Dongxing Xu, Jiaen Liang, and Yanhua Long  
-*ICASSP 2026*  
-**Status:** Accepted
+2. Y. Mei, D. Xu, J. Liang, and Y. Long, "Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR," in *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026. **[Accepted]** [arXiv](https://arxiv.org/abs/2601.01461)
 
-**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM Based Multilingual Speech Recognition**  
-Yuxiang Mei, Delai Qiu, Shengping Liu, Jiaen Liang, and Yanhua Long  
-*IEEE Transactions on Audio, Speech, and Language Processing (TASLP), 2026*  
-**Status:** Submitted
-
-### 2025
-
-**SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge**  
-Yuxiang Mei, Yuang Zheng, Dongxing Xu, and Yanhua Long  
-*Workshop on Multilingual Conversational Speech Language Model (MLC-SLM), 2025, pp. 38-42*  
-**Status:** Published
+3. Y. Mei, D. Qiu, S. Liu, J. Liang, and Y. Long, "Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition," *submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*, 2026. **[Submitted]** [arXiv](https://arxiv.org/abs/2603.17558)
