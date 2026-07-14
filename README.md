@@ -1,16 +1,24 @@
-## Hi there 👋
+# Yuxiang Mei
 
-<!--
-**YuCeong-May/YuCeong-May** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. candidate in Communication Engineering at Shanghai Normal University. I work on multilingual automatic speech recognition, Speech-LLMs, and efficient adaptation.
 
-Here are some ideas to get you started:
+## Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge**  
+   Yuxiang Mei, Yuang Zheng, Dongxing Xu, and Yanhua Long.  
+   *Workshop on Multilingual Conversational Speech Language Model (MLC-SLM)*, 2025, pp. 38-42.  
+   _Published_
+
+2. **Bridging the Gap: A Comparative Exploration of Speech-LLM and End-to-End Architecture for Multilingual Conversational ASR**  
+   Yuxiang Mei, Dongxing Xu, Jiaen Liang, and Yanhua Long.  
+   *ICASSP*, 2026.  
+   _Accepted_
+
+3. **Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM Based Multilingual Speech Recognition**  
+   Yuxiang Mei, Delai Qiu, Shengping Liu, Jiaen Liang, and Yanhua Long.  
+   *IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*, 2026.  
+   _Submitted_
+
+## Interests
+
+Multilingual ASR · Speech-LLMs · Parameter-efficient fine-tuning · Robust speech recognition
